@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Weather app colors -->
+    <color name="weather_deep_blue">#1E3A8A</color>
+    <color name="weather_medium_blue">#3B82F6</color>
+    <color name="weather_light_blue">#60A5FA</color>
+    <color name="weather_card_bg">#E0F2FE</color>
+    <color name="weather_text_primary">#FFFFFF</color>
+    <color name="weather_text_secondary">#E0E7FF</color>
+    <color name="weather_text_dark">#1E293B</color>
+    <color name="weather_separator">#94A3B8</color>
+</resources>
